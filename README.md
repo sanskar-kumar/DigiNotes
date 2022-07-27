@@ -1,5 +1,5 @@
 # DigiNotes
-A React app with NodeJS at the backend with login feature that allows you to create and manage your notes.
+A React app with NodeJS at the backend with login feature and OTP verification that allows you to create and manage your notes.
 
 A look of project:-
 #
